@@ -16,6 +16,11 @@ public:
 		cout << "\nnim : " << nim << endl;
 		cout << "nama : " << nama << endl;
 	}
+};
 
-
+class Matakuliah {
+private:
+	string kode;
+	string namaMk;
+	int sks;
 };
