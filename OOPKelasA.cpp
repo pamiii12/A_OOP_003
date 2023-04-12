@@ -6,6 +6,12 @@ private:
 	int nim;
 	string nama;
 public:
+	void inputdata() {
+		cout << "masukkan nim : ";
+		cin >> nim;
+		cout << "masukkan nama : ";
+		cin >> nama;
+	}
 
 
 };
