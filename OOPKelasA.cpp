@@ -52,7 +52,7 @@ int main() {
 	mhs.tampildata();
 
 	Mk.inputMk();
-	Mk.tampilMk();
+	Mk.tampilMk();  
 
 
 }
